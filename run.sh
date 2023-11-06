@@ -1,3 +1,4 @@
+# TEST
 mvn clean assembly:assembly
 if [ $? -eq 0 ]; then
     echo
